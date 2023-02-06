@@ -1,11 +1,15 @@
 h1 {
-    color: green;
+    color: black;
     text-align: center;
     font-size: 100px;
     font-style: italic;
 }
 body {
-    background-color: silver;
+    background-image: url(SpaceShisha.jpg);
+    background-size: 50% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
 }
 ul {
     list-style: none;
@@ -14,3 +18,7 @@ ul {
     text-align: center;
     font-size: 50px;
   }
+
+a {
+    color: black;
+}
